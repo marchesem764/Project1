@@ -1,0 +1,7 @@
+.*
+!/.gitignore
+Desktop.ini
+Icon[]
+__pycache__/
+*.pyc
+
